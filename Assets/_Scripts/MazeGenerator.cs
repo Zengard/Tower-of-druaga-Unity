@@ -6,29 +6,33 @@ public class MazeGenerator : MonoBehaviour
 {
     [SerializeField] private Vector2Int _mazeSize;
     [SerializeField] private Node _nodePrefab;
-
+    Dictionary<Vector2Int, Node> _mazeNodes;
 
 
     private void Start()
     {
-        StartCoroutine(GenerateMazeWithDelay());
+        GenerateMaze();
     }
 
     private void GenerateMaze()
     {
-        List<Node> nodes = new List<Node>();
+        _mazeNodes = new Dictionary<Vector2Int, Node>();
 
         for (int x = 0; x < _mazeSize.x; x++)
         {
             for (int y = 0; y < _mazeSize.y; y++)
             {
-                Vector3 nodePos = new Vector3(x - _mazeSize.x, 0, y - _mazeSize.y);
+                Vector3 nodePos = new Vector3(x - (_mazeSize.x / 2), 0, y - (_mazeSize.y / 2));
 
-                Node node = Instantiate(_nodePrefab, nodePos, Quaternion.identity, transform);
+                Node node = Instantiate(_nodePrefab, nodePos, Quaternion.Euler(-90,0,0), transform);
 
-                nodes.Add(node);
+                node.NodeIndex.x = x;
+                node.NodeIndex.y = y;
+                _mazeNodes.Add(new Vector2Int(node.NodeIndex.x, node.NodeIndex.y), node);
             }
         }
+
+        StartCoroutine(ChooseNextNodeToMoveWithDelay(_mazeNodes));
     }
 
 
@@ -48,12 +52,17 @@ public class MazeGenerator : MonoBehaviour
                 node.NodeIndex.y = y;
                 nodes.Add(new Vector2Int(node.NodeIndex.x, node.NodeIndex.y), node);
 
-                yield return new WaitForSeconds(0.1f);
+                yield return new WaitForSeconds(0.01f);
 
             }
         }
 
+        StartCoroutine(ChooseNextNodeToMoveWithDelay(nodes));
 
+    }
+
+    private IEnumerator ChooseNextNodeToMoveWithDelay(Dictionary<Vector2Int, Node> nodes) 
+    {
         Stack<Node> pathStack = new Stack<Node>();
         Node currentNode = nodes[new Vector2Int(Random.Range(0, _mazeSize.x), Random.Range(0, _mazeSize.y))];
         currentNode.SetState(NodeState.Current);
@@ -68,7 +77,7 @@ public class MazeGenerator : MonoBehaviour
                 pathStack.Pop();
                 currentNode.SetState(NodeState.Complete);
 
-                if(pathStack.Count > 0)
+                if (pathStack.Count > 0)
                     currentNode = pathStack.Peek();
                 continue;
             }
@@ -83,17 +92,13 @@ public class MazeGenerator : MonoBehaviour
             currentNode.SetState(NodeState.Complete);
             currentNode = newCurrentNode;
 
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(0.05f);
 
         }
-
     }
-
 
     private List<int> GetUnvisitedNeigbors(Node currentNode, Dictionary<Vector2Int, Node> nodes)
     {
-        //List<Node> neigbors = new List<Node>();
-        //List<int> neigbourInt = new List<int>();
         List<int> neiborsList = new List<int>();
 
         Vector2Int[] directions =
@@ -103,20 +108,6 @@ public class MazeGenerator : MonoBehaviour
             new Vector2Int (0,-1),
             new Vector2Int (-1,0),
         };
-
-        //foreach (var dir in directions) 
-        //{
-        //   Node neigbor = new Node();
-        //    neigbor.NodeIndex = new Vector2Int(currentNode.NodeIndex.x + dir.x, currentNode.NodeIndex.y + dir.y);
-
-        //    if (neigbor.NodeIndex.x >= 0 && neigbor.NodeIndex.x < _mazeSize.x &&
-        //       neigbor.NodeIndex.y >= 0 && neigbor.NodeIndex.y < _mazeSize.y &&
-        //       neigbor.GetState() == NodeState.Avaliable) 
-        //    {
-        //        neigbors.Add(neigbor);
-        //    }
-        //}
-
 
         for (int i = 0; i < directions.Length; i++)
         {

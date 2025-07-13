@@ -1,0 +1,6378 @@
+fileFormatVersion: 2
+guid: 418fcc063aeb32c458fb92c4df89130f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2974
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d54cede324a804d93a4ddeed71ec86
+      internalID: 426213611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2974
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a1bf9d2117bc34b8d9d319c158fc65
+      internalID: 1148087076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2975
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107f6291d884ac54c95c6ca64522cffe
+      internalID: 447827128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2958
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30266f28e59a5454eb98e50b78a526ca
+      internalID: 1494408920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2977
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cef290f89f1f744827c72f89564897
+      internalID: -346687102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1839
+        width: 960
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -264, y: 40}
+        - {x: -264, y: 110}
+        - {x: -195, y: 110}
+        - {x: -220, y: 65}
+      - - {x: -194, y: 22}
+        - {x: -194, y: 41}
+        - {x: -190, y: 46}
+        - {x: -175, y: 46}
+        - {x: -175, y: 42}
+        - {x: -170, y: 42}
+        - {x: -170, y: 22}
+      - - {x: -191, y: 42}
+        - {x: -191, y: 43}
+        - {x: -189, y: 43}
+        - {x: -189, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba80e9ea30aa141a8acf37f78c6af7
+      internalID: 226494091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 982
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c917bec4f3272408498d920c63986b
+      internalID: -1881845605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1790
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659139c6653a6384ca597f104679337d
+      internalID: -2005269360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1788
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99deecdd6aadcfa4486d615d077bd6ad
+      internalID: -611337641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1787
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334917b7ca434b44b9d6f0dc69e46354
+      internalID: 385406594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1809
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2544b3ceee3009641b5f6e55cb0c3286
+      internalID: 1741999549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1788
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c0a5e607ad2d4e83e176ed1d38b56
+      internalID: -1593007229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1788
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0146b74b580c4697563af6dd5cf7a
+      internalID: 260822774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1790
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e9a4ae869dfcc4f8ee156e66e66423
+      internalID: -1602234087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dbeef491e52ce4a96c14abfe73a099
+      internalID: 1815922149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f798578dcbc849a8c704dbbde085b
+      internalID: -1252749367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1720
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e326f34ec2a40af48944a3cc352ad3d3
+      internalID: -1573640959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84de6b4a8b9ef524f9d78e1ff092f1fd
+      internalID: -1992832116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1720
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb192033d752644bbb73f7c3377b639
+      internalID: 859275562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf7f27df0056b644a5913467a62419a
+      internalID: -602437846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1640
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b3980144b4e1e47882020b1f7dc822
+      internalID: 654130115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909860c4a1c449548aff353eb984926c
+      internalID: 348517524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1640
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b08ffe83966d849957fde5ce9a7531
+      internalID: -1635084564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7f31d776dc5347a824e0d370a2f2f
+      internalID: 1764268893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1640
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ecd2e07dd542468573748b49fb9f2
+      internalID: 1138563765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_25
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889b83ede5316a48b472b3fbe882948
+      internalID: -1614314313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1560
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b5d7d851d7c440b93c8fa4f54c79f
+      internalID: -1347587898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1560
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f461aa6c278144a16752aaa51b7f8
+      internalID: -1661953935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1560
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ff9915b55dad46827b0ee6cd05d1b
+      internalID: -602774650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1560
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c10f068fa62c4ebf42bc58a0dfb8f
+      internalID: 355628381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98188a91aa785264abd3c988257b7de7
+      internalID: 317367175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1480
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fbb81543a89e84f9ac0af170c76e8c
+      internalID: -306208570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1474
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc21bf6daa055e346be9b06ae119818d
+      internalID: 1985833091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1474
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0d5866687b864280b1dac63595b6e
+      internalID: 910945920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1400
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f99e87f42ace46803f68c84eeebd3
+      internalID: 344741103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1400
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e73043e951b04681f2a9a55b35619
+      internalID: -837198435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1400
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2f9b5922c340349b2de9553d3adddc
+      internalID: 446342019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1400
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38844141739f3e743aa98b8aa7ff93c5
+      internalID: 1452657965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c9c8fa04ea9b44aa32086369904656
+      internalID: 1584740035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd66753c754afe4eb49dbd7964aa662
+      internalID: 633614687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1312
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ef06abdc750e640ae01510ef43a4d2
+      internalID: -1597010308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1312
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c68c1e0e6f594289fca7c24cc6123
+      internalID: -1353303481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 982
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0876ad240d3034c96103416324b3a1
+      internalID: -151903805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1233
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca787684f6b04c428d6162ba62007c4
+      internalID: -1517382457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1232
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4bd35d4c9807a4dbbde6d50d3d7117
+      internalID: -136441609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1233
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301daf6d9b6e1ae439aeb992c691c23c
+      internalID: -1765376259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1231
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce49d58dc19be84eb73b12739fd2158
+      internalID: -295207668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1230
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41345dd806066bd42bf11b8e865a7377
+      internalID: 963344902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1158
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9997c1b5453197545ab860d5f488241c
+      internalID: -1361988393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1158
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82d542e2d483144ca75c6babed859d3
+      internalID: -633665561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1158
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd90e3619b2d047bbd64ca1f9d661d
+      internalID: -2070413687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1158
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e40aebc430c9446847afbf69227d91
+      internalID: -564675674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_52
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1158
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f41c7cb270a184ab49f74095b3a22e
+      internalID: 1165552968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1158
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457635cf767d2e4ea038fad479d3635
+      internalID: 317011873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1158
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f7e45a74cb7a48bd6a8bd38b92087
+      internalID: 637365251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_55
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1158
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a30f7d542c95984eb0b3a17b219eea9
+      internalID: -1379814095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_56
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9bc8b74f5acd54b92ab11694dc94c5
+      internalID: -1310064337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_57
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1158
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb1af0c43fa6448a7d502e0567c3e5
+      internalID: 368739942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1078
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0d75a5c590ad043af5c2c66fce46d8
+      internalID: -873716446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1078
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfc3240e03a4c40ba1a86c6ee14e4a
+      internalID: -2097511624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1078
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ba3ac4319e354c998dcf9a762b553
+      internalID: -1577238891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_61
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1078
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fdbce79bd8d534798a2cc7eb3d76b8
+      internalID: 904507535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1078
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b56116e4dbcb4cae15639352555f1
+      internalID: 1057347271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_63
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1078
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9631282ef32a84ab896ee7eefacc16
+      internalID: -161757876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_64
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1078
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ae8d0f6dbd45249b42ab9e196074de
+      internalID: 1738931793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_65
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1078
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6412104ab1a1441973ebdf896f5ae5
+      internalID: 50755015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_66
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1078
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25434febb150841af90e4420aff260
+      internalID: 325842001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_67
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1078
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888305bd9ac05a409af1b106cb3a190
+      internalID: 855023457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 998
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4582b4a5ea9e0bd4ea97aead428bc019
+      internalID: -1537939976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 998
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085c52485cbaad46b38a2034dd33c04
+      internalID: 1531877129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 998
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3abbac91f6c3254292f505183ece139
+      internalID: 241010461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 998
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ff47c7c42fba48bdc7d54ae013746
+      internalID: 551136374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 998
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2201e9f98c00441a0353937e5d7ecb
+      internalID: 1519149426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_73
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 998
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb93ebf8c45ea4f9bd823316d88edc
+      internalID: -1168514130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_74
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 998
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205f5f1a1e43e948860caf346d9d00f
+      internalID: -1366847870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_75
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 998
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0e0ab4039b074eb826aa251007a23
+      internalID: 52102622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_76
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 998
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19330ed8aaa3b4147b7a7299ccb3567c
+      internalID: -358641472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_77
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 998
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b672cdd54c83854fa5548cd00577591
+      internalID: 2130974682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 918
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f20f244ba0f1848a90b3b6d79b7f11
+      internalID: 1984258202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_79
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 918
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c0e2ec001f5c459ccd9dde37e972c
+      internalID: 417233039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 918
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb57b00ab7c0e499f2615ab5ab8c91
+      internalID: -192801980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_81
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 918
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164d21e0a7e7310449720392c61e1b53
+      internalID: -1043590945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 918
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c131ccf34184d34b8e9519458d062c5
+      internalID: 1789240307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_83
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 918
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de430e4a16f2dea4d8c047d425a1f06c
+      internalID: -1857469357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_84
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 918
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b675a5ee87a2e489b1380f4faed129
+      internalID: -1744917704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_85
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 918
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4342141a56a26e04694f132a1e331e94
+      internalID: 96262014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_86
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 918
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d9dfdcca500ea459ef0d4fecf88f37
+      internalID: -1710577257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_87
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 918
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66a5b8449f87f4cb85ce789dd0f510
+      internalID: 1292536837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 982
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d969ec499e9aa0449bf64a68e0a09d1d
+      internalID: -1514837157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_89
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 837
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5c8ff44642f841884215a1d2f368e
+      internalID: -946463032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_90
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 890
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e61718d19135741acc67fbc9533fba
+      internalID: 1631280583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_91
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 835
+        width: 13
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3658a0d8050d31479c2773fa6ae18f7
+      internalID: 830483880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 835
+        width: 13
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7c288b7745c8d43b451cba0141deab
+      internalID: 1020525682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_93
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 839
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e0ce136dd8aa42a7dfe755b551eae
+      internalID: 2007257804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 837
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa6e31f009e7449a53ca22698432cd
+      internalID: 899560132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 836
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3670f623a98998041a04e6667db9f2b6
+      internalID: 1951615919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_96
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 839
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd78e1d8cfa79d43942224083873275
+      internalID: 45607643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_97
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 837
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352bfe4cbfcb79847b8aafb5b12b245e
+      internalID: 2095429364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_98
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 839
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f4d970ef50c3a4fbab3a8ebd90f4a4
+      internalID: -1869837007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_99
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 839
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2b7c6df3928ac478870f61d37134a9
+      internalID: 553989969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 839
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a0dfc4c2f171e4dafbbeda16bfbdfa
+      internalID: -54303648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 838
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4f08fd998fd84380b161e3b938b37
+      internalID: 1129840899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_102
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 837
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea4ae5279f9ae34d8fac027b0ab898c
+      internalID: 924808606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 770
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65f7ab6d110e54dbfee4618832f373
+      internalID: 741079769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 770
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300f540f2c6fcc545ba3c0a79bb8c53f
+      internalID: -223907651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_105
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 770
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40299be1720b0a4b8c343f72e3332e0
+      internalID: 946611317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 770
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017f742c64e46e449cb302229f564ae
+      internalID: -1014911292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 794
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c948d5095f03e42b75bd7a1ee11527
+      internalID: -1331945446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_108
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 794
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1353e6a5ea3a4ca3fd095be8975ed
+      internalID: 543277739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_109
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 790
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19becbde989fafb4a9580f4f69d6d956
+      internalID: 49558736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_110
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 790
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6959f13f3bc2a54a8713ab8a734ad22
+      internalID: 1635697448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_111
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 794
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f484b30685e98fc4ba4fe79de7fde62b
+      internalID: -1563352870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 794
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd53a55398eca84085a762276043766
+      internalID: 808069658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_113
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 802
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749f395e9696a640908fbc4078186db
+      internalID: -21428171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 802
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976d6327955f8954cbc18ed9db298b98
+      internalID: -992567027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fdf1c98c6de8844aff84b9d730a2b0
+      internalID: 2078382096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 718
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c3a71146479e49a58f0a80390a3a6
+      internalID: 900503231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_117
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 718
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef2623438ddf244fb6487d7b75fad66
+      internalID: 1824702243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_118
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 718
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43348a75307f8c40a4023b4f8805d56
+      internalID: 75011209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852d4d8345496a40940a325cc78c97b
+      internalID: -1117797170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_120
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 726
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248df8e3c02c69144b12114532737970
+      internalID: -1428206143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_121
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 735
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0041996b1ab5542b5a9417b9fb4502
+      internalID: 432629123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_122
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 735
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f537421b4c99b4db3e3b622a2afb7d
+      internalID: 2058229654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_123
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 735
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18084d402a268b47ac683d19ce5799d
+      internalID: -2048409152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_124
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 735
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21005f8d6579e074591d3cce2d92b733
+      internalID: 987501847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_125
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 735
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b077b48f64a942a9b08daa1f4a4ee
+      internalID: 985431894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_126
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 703
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe324df35607c26458d8e4e1bab55c36
+      internalID: 1994597156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_127
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 703
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e210681ea9492249ac30b01f57f22d6
+      internalID: 1280459780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_128
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 703
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3478e9635f05943bd159f42934ab37
+      internalID: -869988316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_129
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 703
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a841bf52c593d4f99adceb22dd1f0a
+      internalID: 962372627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_130
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 703
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69334cd7eb89f4d4186c2838b88ede64
+      internalID: 365673894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bccadbd4a88ad49a4fd9235500b273
+      internalID: -1664899472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_132
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2bcb1bb50922489405267c0ca93a8
+      internalID: -1633075511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87abf1fc2d4c96948bc6fde27fee482a
+      internalID: -1811455419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_134
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ee8a49ba0703b4cbce9bbe7ab2c307
+      internalID: 285503786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_135
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb9778834f802459fa1eb0974b9b7f
+      internalID: 1312856207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_136
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54589e3a28fb29140beeb3264d0fc460
+      internalID: 526866175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_137
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2c19a59fe32254f9026603eed1f8ed
+      internalID: 1696194586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_138
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587957d62981f34fb80809c979d4005
+      internalID: -1049534344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 576
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267924b0f415e724bb89049961d88901
+      internalID: -1232226412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_140
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 576
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372e365ee93c0f44b3d4c13fb57120e
+      internalID: 679513013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_141
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 576
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f35501c8e871e4b98ae89affdb8af4
+      internalID: 1675887046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_142
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 576
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807e2acb42f277489fb96012e92c24f
+      internalID: -253559923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_143
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 576
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bff3e9475d82746993392d91e5460c
+      internalID: 1578087851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_144
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 576
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5b2586eea7d64aa7693efdf257a16
+      internalID: -1545557899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_145
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 576
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356412a9a30544341b3e92a1cb57b6c1
+      internalID: 1582201220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_146
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 574
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8478413e359f1784f994ec1862c14312
+      internalID: 395924742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_147
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 523
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ab0767c5044a43aee30f1a4fc5073
+      internalID: -1584735856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_148
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 523
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e8d5737406cb42a0197227c6725bf
+      internalID: 1642701768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 514
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f62951f46768444bfeb3e46b673cbb
+      internalID: -1290642950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_150
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6f0e5e9e907e49942ee588e37feb5
+      internalID: 1557662603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_151
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 522
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb83475d91a0044973446aa8de0ae2
+      internalID: -238011027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_152
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 522
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d39887e2dd20740934277de3916368
+      internalID: -1992156752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_153
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 522
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c50ceea776d464b874b65d6ab5021a
+      internalID: -378784177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_154
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 486
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2a2f96e9e6f943818eed5877f2d84
+      internalID: -839509474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_155
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 486
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2688a2f8a5bd2948a849c5a6c0451ed
+      internalID: -466270364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 458
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc4c5da7735ff5459fc4000d7d1c37e
+      internalID: 1052874947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_157
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 454
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974025f8b3fda642899244818c23dbc
+      internalID: 1617354563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_158
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 450
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181802dd58729de44b4c989042a8a0ad
+      internalID: -1064235896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_159
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 450
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e432cf98d623e4a4494b8eef2c180a24
+      internalID: 389710349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_160
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfab5bda83fe09945b8d89ea2418c76f
+      internalID: -1873347116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_161
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 450
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f96e002b4b44534d885cbb4bcd577df
+      internalID: 162385442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_162
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 450
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695a19a0e1b8754aa74395217664c6f
+      internalID: 2146271268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_163
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 470
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930bbf038915c0c43a8be9e319d9aaa8
+      internalID: 278260003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_164
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 470
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327f9707a7fcea41a5ec3e597aad030
+      internalID: 1648053041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_165
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b286a1f926ecba42860c2288e323b6c
+      internalID: 2001055662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_166
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60b033425f3b8e46bd9f0ead3eb29c8
+      internalID: -1838728355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_167
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 386
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4432417127f93b4190f9482ec2778ca
+      internalID: -1590800107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_168
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 386
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9535bf5c43dafc469bfb09478c50dd8
+      internalID: 269575875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_169
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 398
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe2dfd0e57d934bb88f593cbc371f2
+      internalID: -98190751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_170
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 386
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4b616a0b856245a3f5ebbaa065445
+      internalID: -1803868893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_171
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 386
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab5889a76a1bb64fb7273aa7f1ed5bf
+      internalID: -1467657263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_172
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 386
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832bf4b5c1b1cdf4fbcc07aa13c98999
+      internalID: -1509707138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_173
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 386
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4895be732d34c246ab089d8ec7ae956
+      internalID: -1887193215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_174
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 386
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82f9101f1828d646bb383ab7407135a
+      internalID: 496086468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_175
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 336
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2ddb8c905fc8c40a321181818a08eb
+      internalID: 2084777747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_176
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 336
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2faba6058b294f9473efbd1b90070
+      internalID: -1122393460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_177
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 336
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d667d619a33d997449ade12b6342a1d2
+      internalID: -2004941807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_178
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506441779f1247645bd511ac7f537a1f
+      internalID: -1318579714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_179
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 322
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a9f2263254883479707622116431f1
+      internalID: 920404280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_180
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 328
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84107c80531c56048994e82425c5e511
+      internalID: 501907903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_181
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 322
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d02dbaf08c4ed45946dd85eb02e12e
+      internalID: -2126640288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 982
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e9ef2e653eb743b06f64993bda7ef
+      internalID: 541567803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_183
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 270
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ada2fc738c6314899641f919fe0e73
+      internalID: -1699856159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_184
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 269
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7820ae9cd03946b5b31e998b1ae62
+      internalID: -1954993728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_185
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 271
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1133b825ca8d64996597afc0fe22af
+      internalID: -1135084335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_186
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 286
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc70423ebe34dd41a0f8bbfea6f2ebf
+      internalID: -304111854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_187
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 271
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4a1fc60a369364f8a4491d1066cecd
+      internalID: -330890151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_188
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 270
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c6dabeaaeebb54aaa12eb072f7bc38
+      internalID: 2719408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_189
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 271
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc919ddeb6a4ce642838bab519436af7
+      internalID: 1341467603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_190
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 272
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f11b463857880e4f9186a2dd876368f
+      internalID: -148187930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_191
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 270
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82abaeed01b85d428013946269a756c
+      internalID: -197182970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_192
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 271
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e90034c27438448f1737ba224ad14
+      internalID: -566100503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_193
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 271
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa541763cd486154db23387c93b9b4bb
+      internalID: -695437041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_194
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 271
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac9cde3c0fd98347adca67dcbfdd995
+      internalID: -1783909412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_195
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 271
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bfa1a63c3dbd148aa4d29d0b5546ef
+      internalID: 1286627955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_196
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 270
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800510f5800c97446ae7614304b9dd8f
+      internalID: 239307214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_197
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 262
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5e7e720aacc3645a81ac20e271f50b
+      internalID: 276795777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_198
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 270
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dff5ae477c43f4eb145fd475fd5b25
+      internalID: 1180656350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_199
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 217
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f743bbeeff4504541abd6b21f5db587a
+      internalID: -166370618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_200
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cea4f3d97a5a4438045dc30f04a6e1
+      internalID: 550282232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_201
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 215
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62787126cebf91340919f7cc74649b45
+      internalID: -167217083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_202
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 217
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e33999c780734dacf7e14d2a7e5c0
+      internalID: -246899304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_203
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 232
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a190dda9806f7f44b9337ab3c76c1f78
+      internalID: 201786505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_204
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 217
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316c6bf4bc9f2a4ea6bcaed8f0d40a9
+      internalID: -229238873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_205
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd123ba8c03db0c4eab1a598e2ff7a3f
+      internalID: -1817331651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_206
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 216
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d07b19f3013e4f8a86995b100c3b3
+      internalID: -1360181269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_207
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 216
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b272245090f54e8b7552ada30f477
+      internalID: -1532106767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_208
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 217
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005084c28db78fb40a85aef8cdf8dee2
+      internalID: 242732964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_209
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 215
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20fada642ec0d4db14037ddc014e51
+      internalID: -8286187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_210
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 215
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309a55f39a6e154683f9b119973b767
+      internalID: -646482306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_211
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 226
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ed22bb38e7bb4297e517fafea9036
+      internalID: 815826544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_212
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 163
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6cd67819e05d449f30cab884c04ac
+      internalID: 1976007061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_213
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c9fcbfc29f47e4d86b8f93b1d59b62
+      internalID: -1383926551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_214
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df13e65fa3cb8b1469d693154a6e02fa
+      internalID: 1090189305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_215
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 164
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e99dac2793b9924aa9a8c7c5221db1e
+      internalID: 488464008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_216
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db0058be615cf4da9d7ece900b9fec
+      internalID: 261624462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_217
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 164
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429b9d1a178025419e8f8de9a248d67
+      internalID: -273897358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_218
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 164
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a03fa98a449d46b106e618d9bdc4c
+      internalID: -1627088131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_219
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 179
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2304fbc758372c4d9e398a72a4af811
+      internalID: -396562435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_220
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 162
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30512bf78b482f6429d0becf30d54e8d
+      internalID: 973608206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_221
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9a1c0d864e094a87f77e7caf43b1b
+      internalID: 1984726256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_222
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 163
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60001ce121a6b418a3272efa87373e
+      internalID: -84141016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_223
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d95fbd5ec4464d9db772d7515a95c
+      internalID: -1887943629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_224
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 110
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5b670ea8e3a34092bfcf7670cdd46
+      internalID: 637744854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_225
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 110
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac08f16e272034883e1db4d79ab250
+      internalID: 1319157544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_226
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 110
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0476c780924c17c4a91ddbc9afe88072
+      internalID: 479434105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_227
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaca153c47e169478f6e5fa77aae8d7
+      internalID: -1361423275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_228
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 108
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf081541b435763439bbc7c809fb89f3
+      internalID: -1112742629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_229
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 134
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2bfa94718a0f84784bea163bf9c194
+      internalID: 1488751222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_230
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 100
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa2921f24c7304685c9ec902454cd7
+      internalID: -985880452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_231
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4d424b6a22194791d7eba1acf1826
+      internalID: -867158784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_232
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 100
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585e1193a754ea7448abd83615d997fa
+      internalID: -716817042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_233
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 109
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43692e9bc777df3498cd98cafb96cf36
+      internalID: 287267714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_234
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 111
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9923c6abaa9680f4f858b56bbea63207
+      internalID: 1758427095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_235
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 109
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a91cef2fa0f53458202be8127b3644
+      internalID: 973161519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_236
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 110
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d243c536036a0243a0beaafedb5e269
+      internalID: 1287718349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_237
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 100
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762b26ed79dd3549b6a8b3cbfc5d5e8
+      internalID: 1660153754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_238
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 109
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed6e2c0ecdf7742b3b0a5510b388db
+      internalID: 432159192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_239
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7ec18962f87344a8f1065324df6001
+      internalID: -973591139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_240
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8641b845e0fc9e04aaca74be39e3a6af
+      internalID: 1431965511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_241
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 55
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb7a17bb4cda4043ae088cae45b2d3d
+      internalID: -1371958841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_242
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 55
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6664e49c139cae340a2382e1cb22be63
+      internalID: 35765803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_243
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c78b1bd4362f4c9dcc53daf172fe5
+      internalID: 352685755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_244
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c34c78f8c1a35444b2c478932caf919
+      internalID: -863087749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_245
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 56
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ebd5495e28e7428d6b3dfd9823112
+      internalID: -451620170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_246
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 55
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4013401117319e54a8539a9cdc32b78f
+      internalID: -1958039998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_247
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001b424860397f499efe0a55d6d6d6a
+      internalID: 874990343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_248
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 56
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161dbecbe4e00d84caf80b3243f2456f
+      internalID: 650314587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_249
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 56
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11e6314432105240b3a0a9612afa6d8
+      internalID: -1821377241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_250
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 55
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4828300576b15974189a0c40a0568aa7
+      internalID: -1448547788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_251
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 55
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b438c83a873ae144eac647ead2f3d752
+      internalID: 1102253836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_252
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244ccc7ddae3d2c41b800b6a97cda257
+      internalID: -29580533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_253
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 55
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c7b626cf6af9d4aa02ed4a9600db4f
+      internalID: -1537293783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_254
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 56
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c8a6840ec55548a919f3c8dddd195
+      internalID: -1115278875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_255
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 50
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09def7398335b640a5b3ff26f204839
+      internalID: -939146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_256
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 55
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3651fb91cb32d60418fd02c0a307cd64
+      internalID: -1941291812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_257
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 56
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117d6cf5045c99a4bb5763f58c97a1a9
+      internalID: -601075054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_258
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 56
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf368366bbc63904cb4685bb09371969
+      internalID: 1592674296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_259
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 55
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdc2e5c1e704748ae0bbe91005fce2
+      internalID: -1244345954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_260
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 54
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46a513ef916dc34e8584ed5334cee91
+      internalID: -931686408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_261
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 57
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a8535ca862fc4a9fd089ca27ce03f
+      internalID: -2139474304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_262
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 56
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5720f2fd5255f46b460636d62ee27d
+      internalID: 189283768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_263
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 55
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c9f3eea2381e40ae380c4c977c3c0
+      internalID: -798043728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_264
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 56
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c82966432c1214c9706e447afd9b39
+      internalID: 1950374997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_265
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 54
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3e44cbbbbbbe4a881933c6fc3968b
+      internalID: 1796186924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_266
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 56
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693189b14a4eff8409f965caae1527a9
+      internalID: -967810288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_267
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 56
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5e59d6efd6e244b09a1f1d26495c7
+      internalID: -473963117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_268
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4174b0c7acd754bb113b77ed1b36e9
+      internalID: 1230502482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_269
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c04af7fcf6d2f24181a5b96ce41431d
+      internalID: 1008159523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_270
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c765b7b02a8fd42b35aa2eaee12492
+      internalID: -261225630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_271
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f875cd254d2a644b9359f500b9c6c8
+      internalID: -1233399172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_272
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff455b0651c5ff44096e612b4b9ee3de
+      internalID: 1135252498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_273
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b6dfd4846bb94e91b96be1ff63964
+      internalID: -867071299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_274
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b132901d32f8147be0b74f85152018
+      internalID: -1029920098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_275
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02813e3a70a03b54e8dfb280c706aac8
+      internalID: -1549207283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_276
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443134bdb11c8aa429dd16840fc37a87
+      internalID: 597326477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_277
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcfdd98e33b17d4b92176a95f74ab72
+      internalID: 1463937791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_278
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cecd4a690e5cd4e83d03d15d8b68d4
+      internalID: -205984679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_279
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b19205553790e459f470503f387bc7
+      internalID: 1932629370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_280
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d428b7988fa782443a78134183061cfc
+      internalID: -240448674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Pac-Man 99 - The Tower of Druaga_281
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7672363411a04e9b880eb24eaf4f7
+      internalID: -2043585437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d771652fe9f8bcb4aa4b9d9ddfd92e09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_113: -21428171
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_29: 355628381
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_178: -1318579714
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_201: -167217083
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_27: -1661953935
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_147: -1584735856
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_91: 830483880
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_135: 1312856207
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_142: -253559923
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_82: 1789240307
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_102: 924808606
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_279: 1932629370
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_101: 1129840899
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_59: -2097511624
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_38: 1584740035
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_56: -1310064337
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_107: -1331945446
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_41: -1353303481
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_276: 597326477
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_183: -1699856159
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_163: 278260003
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_190: -148187930
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_105: 946611317
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_206: -1360181269
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_39: 633614687
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_48: -1361988393
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_1: 1148087076
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_23: 1764268893
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_14: 1815922149
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_74: -1366847870
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_143: 1578087851
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_193: -695437041
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_187: -330890151
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_112: 808069658
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_98: -1869837007
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_121: 432629123
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_180: 501907903
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_239: -973591139
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_246: -1958039998
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_5: 226494091
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_226: 479434105
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_22: -1635084564
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_92: 1020525682
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_72: 1519149426
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_49: -633665561
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_35: -837198435
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_109: 49558736
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_2: 447827128
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_13: -1602234087
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_247: 874990343
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_214: 1090189305
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_260: -931686408
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_26: -1347587898
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_126: 1994597156
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_16: -1573640959
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_248: 650314587
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_73: -1168514130
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_264: 1950374997
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_199: -166370618
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_32: 1985833091
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_116: 900503231
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_89: -946463032
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_31: -306208570
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_78: 1984258202
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_266: -967810288
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_90: 1631280583
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_262: 189283768
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_257: -601075054
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_218: -1627088131
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_71: 551136374
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_19: -602437846
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_108: 543277739
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_136: 526866175
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_255: -939146
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_106: -1014911292
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_15: -1252749367
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_215: 488464008
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_165: 2001055662
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_33: 910945920
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_221: 1984726256
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_36: 446342019
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_243: 352685755
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_241: -1371958841
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_211: 815826544
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_6: -1881845605
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_182: 541567803
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_51: -564675674
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_52: 1165552968
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_244: -863087749
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_104: -223907651
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_192: -566100503
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_250: -1448547788
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_251: 1102253836
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_204: -229238873
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_37: 1452657965
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_7: -2005269360
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_202: -246899304
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_132: -1633075511
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_75: 52102622
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_277: 1463937791
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_272: 1135252498
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_64: 1738931793
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_275: -1549207283
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_84: -1744917704
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_45: -1765376259
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_24: 1138563765
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_256: -1941291812
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_54: 637365251
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_117: 1824702243
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_186: -304111854
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_130: 365673894
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_237: 1660153754
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_168: 269575875
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_137: 1696194586
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_249: -1821377241
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_151: -238011027
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_114: -992567027
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_95: 1951615919
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_220: 973608206
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_196: 239307214
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_273: -867071299
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_123: -2048409152
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_161: 162385442
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_86: -1710577257
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_278: -205984679
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_42: -151903805
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_43: -1517382457
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_30: 317367175
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_240: 1431965511
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_17: -1992832116
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_79: 417233039
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_185: -1135084335
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_154: -839509474
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_270: -261225630
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_254: -1115278875
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_210: -646482306
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_155: -466270364
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_269: 1008159523
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_21: 348517524
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_68: -1537939976
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_263: -798043728
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_99: 553989969
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_198: 1180656350
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_12: 260822774
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_225: 1319157544
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_58: -873716446
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_94: 899560132
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_47: 963344902
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_96: 45607643
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_44: -136441609
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_224: 637744854
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_253: -1537293783
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_61: 904507535
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_189: 1341467603
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_34: 344741103
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_125: 985431894
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_268: 1230502482
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_160: -1873347116
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_88: -1514837157
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_208: 242732964
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_167: -1590800107
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_184: -1954993728
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_223: -1887943629
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_129: 962372627
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_148: 1642701768
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_115: 2078382096
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_169: -98190751
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_222: -84141016
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_97: 2095429364
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_213: -1383926551
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_134: 285503786
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_76: -358641472
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_140: 679513013
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_228: -1112742629
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_172: -1509707138
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_28: -602774650
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_40: -1597010308
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_171: -1467657263
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_261: -2139474304
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_245: -451620170
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_231: -867158784
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_232: -716817042
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_259: -1244345954
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_85: 96262014
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_280: -240448674
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_191: -197182970
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_124: 987501847
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_3: 1494408920
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_236: 1287718349
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_111: -1563352870
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_122: 2058229654
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_235: 973161519
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_144: -1545557899
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_203: 201786505
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_145: 1582201220
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_281: -2043585437
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_146: 395924742
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_138: -1049534344
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_57: 368739942
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_209: -8286187
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_166: -1838728355
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_46: -295207668
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_158: -1064235896
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_271: -1233399172
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_217: -273897358
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_274: -1029920098
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_242: 35765803
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_164: 1648053041
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_181: -2126640288
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_4: -346687102
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_153: -378784177
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_25: -1614314313
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_227: -1361423275
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_80: -192801980
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_175: 2084777747
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_176: -1122393460
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_238: 432159192
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_60: -1577238891
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_205: -1817331651
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_195: 1286627955
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_20: 654130115
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_118: 75011209
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_159: 389710349
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_150: 1557662603
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_267: -473963117
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_170: -1803868893
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_141: 1675887046
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_0: 426213611
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_157: 1617354563
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_66: 325842001
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_131: -1664899472
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_197: 276795777
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_162: 2146271268
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_81: -1043590945
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_139: -1232226412
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_174: 496086468
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_63: -161757876
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_265: 1796186924
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_8: -611337641
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_177: -2004941807
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_152: -1992156752
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_127: 1280459780
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_93: 2007257804
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_219: -396562435
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_10: 1741999549
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_11: -1593007229
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_69: 1531877129
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_252: -29580533
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_103: 741079769
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_128: -869988316
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_156: 1052874947
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_87: 1292536837
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_258: 1592674296
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_53: 317011873
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_212: 1976007061
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_207: -1532106767
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_229: 1488751222
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_9: 385406594
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_65: 50755015
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_62: 1057347271
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_200: 550282232
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_50: -2070413687
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_110: 1635697448
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_67: 855023457
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_100: -54303648
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_133: -1811455419
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_18: 859275562
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_55: -1379814095
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_149: -1290642950
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_230: -985880452
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_179: 920404280
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_234: 1758427095
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_83: -1857469357
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_173: -1887193215
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_119: -1117797170
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_77: 2130974682
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_120: -1428206143
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_233: 287267714
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_194: -1783909412
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_70: 241010461
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_188: 2719408
+      Nintendo Switch - Pac-Man 99 - The Tower of Druaga_216: 261624462
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

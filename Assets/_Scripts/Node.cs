@@ -3,7 +3,7 @@ using UnityEngine;
 public class Node : MonoBehaviour
 {
     [SerializeField] private GameObject[] _walls;
-    [SerializeField] private MeshRenderer _meshRenderer;
+    //[SerializeField] private MeshRenderer _meshRenderer;
     public Vector2Int NodeIndex;
     private NodeState _nodeState;
 
@@ -22,18 +22,18 @@ public class Node : MonoBehaviour
     {
         _nodeState = state;
 
-        switch (state)
-        {
-            case NodeState.Avaliable:
-                _meshRenderer.material.color = Color.white;
-                break;
-            case NodeState.Current:
-                _meshRenderer.material.color = Color.yellow;
-                break;
-            case NodeState.Complete:
-                _meshRenderer.material.color = Color.blue;
-                break;
-        }
+        //switch (state)
+        //{
+        //    case NodeState.Avaliable:
+        //        _meshRenderer.material.color = Color.white;
+        //        break;
+        //    case NodeState.Current:
+        //        _meshRenderer.material.color = Color.yellow;
+        //        break;
+        //    case NodeState.Complete:
+        //        _meshRenderer.material.color = Color.blue;
+        //        break;
+        //}
     }
 
     public NodeState GetState() { return _nodeState; }
