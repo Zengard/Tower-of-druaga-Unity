@@ -520,7 +520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f014eaab781d96459f8fcebbc225322, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 1
+  _speed: 1.2
 --- !u!65 &157720597
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -794,7 +794,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 747460a9f279b384692d65f5f550f63f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _mazeSize: {x: 18, y: 9}
+  _mazeSize: {x: 16, y: 8}
   _nodePrefab: {fileID: 8403312317385975006, guid: 28bdc6991dd0a5d4d880f0bdb0479ec9, type: 3}
 --- !u!4 &336004152
 Transform:
